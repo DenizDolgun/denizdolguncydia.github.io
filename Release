@@ -1,0 +1,7 @@
+Origin: Deniz Repo
+Label: Deniz Repo
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Göztepeli bir adamın Reposu...
